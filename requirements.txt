@@ -1,0 +1,9 @@
+telethon
+python-telegram-bot
+selenium
+customtkinter
+schedule
+pandas
+reportlab
+requests
+chromedriver-autoinstaller
